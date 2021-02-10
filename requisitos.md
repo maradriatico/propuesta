@@ -343,6 +343,348 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Crear base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la base de datos donde se guardarán la información de usuarios, productos, etc             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder añadir usuarios manualmente             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Eliminar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar usuarios manualmente             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Modificar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar datos principales de usuarios manualmente             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Registrarse**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar opción a registrar al usuario y recoger información             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Inicio de sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Iniciar sesión como usuario registrado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Cerrar sesión como usuario logueado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Modificar datos de usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar opción a modificar su perfil y sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Cambiar contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | Oportunidad del usuario de modificar su contraseña             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R48**     | **Buscar producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder buscar productos mediante nombre             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Filtrar búsqueda**         |
+| --------------: | :------------------- |
+| **Descripción** | Filtrar la búsqueda de productos en función a su categoría             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Subir producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un producto que cumpla con las reglas de la BD             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Poner precio**         |
+| --------------: | :------------------- |
+| **Descripción** | Otorgar un valor al producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Tipo de producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir el producto a una categoría             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Cambiar precio**         |
+| --------------: | :------------------- |
+| **Descripción** | Cambiar el valor del precio del producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Eliminar producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Desechar el producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Añadir descripción**         |
+| --------------: | :------------------- |
+| **Descripción** | Darle una resumida descripción al producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Editar producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Configurar la información del producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Chat en tiempo real**         |
+| --------------: | :------------------- |
+| **Descripción** | Chat en tiempo real con los usuarios en base a un producto, haciendo uso del módulo de chat             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R58**     | **Ver usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder ver el perfil de un usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Valorar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Valorar al usuario vendedor una vez realizada la compra             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R60**     | **Marcar producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Marcar que el producto se ha vendido             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Añadir foto perfil**         |
+| --------------: | :------------------- |
+| **Descripción** | Otorgar una foto de perfil al usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Usar Firebase como servidor de almacenamiento en la nube             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R63**     | **Añadir producto a Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir al servidor al subir el producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R64**     | **Modificar producto de Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar el producto en el servidor al modificarlo e la nube             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R65**     | **Eliminar producto de Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar del servidor  el producto eliminado de  la nube             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R66**     | **Añadir fotos producto a Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir al servidor la foto del producto al subirlo             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R67**     | **Eliminar fotos de producto de Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar la foto del servidor al eliminarla de la nube             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R68**     | **Modificar fotos de producto de Firebase**         |
+| --------------: | :------------------- |
+| **Descripción** | Cambiar fotos del servidor al cambiarla de la nube             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R69**     | **Geolocalización**         |
+| --------------: | :------------------- |
+| **Descripción** | Aplicar funciones de geolocalización para la visibilidad de los productos cercanos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R70**     | **Ver productos cercanos**         |
+| --------------: | :------------------- |
+| **Descripción** | Tener la visualización de productos cerca de tu posición             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R71**     | **Añadir producto a Favoritos**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un producto a una lista personalizada del usuario sobre productos interesados por este             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Eliminar producto de Favoritos**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un producto de la lista de favoritos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R73**     | **Ver lista Favoritos**         |
+| --------------: | :------------------- |
+| **Descripción** | Visualizar la lista de productos favoritos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Crear cuenta Administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear una cuenta de administrador donde podrá gestionar los usuarios, productos, etc             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Darse de baja**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder borrar y desvincular sus datos de la aplicación             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R76**     | ****         |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +728,41 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Crear base de datos | Importante | Información | Fácil | v1 | 
+| (**R40**) Añadir usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Eliminar usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Modificar usuario | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Registrarse | Importante | Funcional | Media | v1 | 
+| (**R44**) Inicio de sesión | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Cerrar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Modificar datos de usuario | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Cambiar contraseña | Opcional | Funcional | Media | v2 | 
+| (**R48**) Buscar producto | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Filtrar búsqueda | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Subir producto | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Poner precio | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Tipo de producto | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Cambiar precio | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Eliminar producto | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Añadir descripción | Importante | Funcional | Fácil | v1 | 
+| (**R56**) Editar producto | Importante | Funcional | Fácil | v1 | 
+| (**R57**) Chat en tiempo real | Importante | Técnico | Difícil | v3 | 
+| (**R58**) Ver usuario | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Valorar usuario | Opcional | Funcional | Media | v2 | 
+| (**R60**) Marcar producto | Mínimo | Funcional | Fácil | v1 | 
+| (**R61**) Añadir foto perfil | Importante | Funcional | Media | v1 | 
+| (**R62**) Firebase | Importante | Técnico | Fácil | v1 | 
+| (**R63**) Añadir producto a Firebase | Importante | Funcional | Media | v1 | 
+| (**R64**) Modificar producto de Firebase | Importante | Funcional | Media | v1 | 
+| (**R65**) Eliminar producto de Firebase | Importante | Funcional | Media | v1 | 
+| (**R66**) Añadir fotos producto a Firebase | Importante | Funcional | Media | v1 | 
+| (**R67**) Eliminar fotos de producto de Firebase | Importante | Funcional | Media | v1 | 
+| (**R68**) Modificar fotos de producto de Firebase | Importante | Funcional | Media | v1 | 
+| (**R69**) Geolocalización | Importante | Funcional | Difícil | v3 | 
+| (**R70**) Ver productos cercanos | Importante | Funcional | Difícil | v3 | 
+| (**R71**) Añadir producto a Favoritos | Importante | Funcional | Media | v2 | 
+| (**R72**) Eliminar producto de Favoritos | Importante | Funcional | Media | v2 | 
+| (**R73**) Ver lista Favoritos | Importante | Funcional | Fácil | v2 | 
+| (**R74**) Crear cuenta Administrador | Importante | Funcional | Media | v2 | 
+| (**R75**) Darse de baja | Opcional | Funcional | Fácil | v1 | 
+| (**R76**)  | Opcional | Funcional | Fácil | v1 | 

@@ -1,26 +1,31 @@
-% Videoclub "Los Pajaritos"
-% Ricardo Pérez
-% Curso 2019/20
+% WeebApp
+% Adrián Roldán Rodríguez
+% Curso 2020/21
 
 # Descripción general del proyecto
 
-Explicar.
+Plataforma dedicada a la compra venta de productos de segunda mano entre usuarios a través de Internet.
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+Ofrecer la posibilidad de comprar y vender productos de segunda mano entre uuarios, en base a su proximidad mediante el uso de la gelocalización
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
+* Objetivo: Gestionar la interactuación entre usuarios, y los productos ponen a la venta.
+* Casos de uso:
+    + Invitados:
+        "Registrase", "Iniciar sesión", "Buscar productos", "Ver productos de un usuario"
 
-Por ejemplo:
+    + Usuarios:
+        "Iniciar sesión", "Buscar productos", "Ver productos de un usuario", "Subir producto", "Marcar producto vendido", "Eliminar producto", "Contactar con usuario por producto", "Valorar usuario por interacción", "Editar perfil", "Eliminar perfil".
 
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+    + Administrador:
+        [Casos de uso de Usuarios], "Eliminar usuario", "Registrar usuario", "Editar y añadir funcionalidades", "Eliminar producto". "Eliminar valoración de usuario".
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
++Utilización de una [API de Cloud Storage](https://firebase.google.com/docs/storage) de Firebase para la subida y almacenamiento de imagenes.
+
++Chat entre comprador interesado y vendedor
+
